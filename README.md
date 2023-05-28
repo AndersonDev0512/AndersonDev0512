@@ -1,5 +1,5 @@
 <h1 align="center"> Anderson Rodrigues</h1>
-<h3 align="center"> Otimista na área de DevOps</h3>
+<h3 align="center"> Otimista na área de Infra e DevOps</h3>
 
 - 🌱 No Momento estou aprendendo **Docker,Jenkins,Kubernetes,Python**
 
